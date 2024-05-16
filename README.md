@@ -1,5 +1,5 @@
 # pygame_shooter
-A scroll map shooter game made wtih pygame
+A scroll map shooter game made with pygame
 -----------------------------------------------
 Use keyboard W(jump) A D(wald) SPACE(shoot) to control the player  
   
